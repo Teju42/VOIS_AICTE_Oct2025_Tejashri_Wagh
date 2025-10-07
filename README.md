@@ -1,4 +1,5 @@
 Airbnb Neighbourhood Review Analysis
+
 Project Overview
 This project analyzes Airbnb property listings and reviews, focusing on neighbourhood dynamics and host verification impacts using a comprehensive dataset of over 83,000 entries and 24 features. The analysis includes exploratory data analysis (EDA), data preprocessing, statistical insights, and visualizations with Python’s data science libraries. It aims to derive actionable insights for business strategy, neighbourhood comparison, and user preference modeling.
 
