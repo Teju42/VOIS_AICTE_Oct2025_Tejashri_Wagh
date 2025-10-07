@@ -1,9 +1,11 @@
 Airbnb Neighbourhood Review Analysis
 
 Project Overview
+
 This project analyzes Airbnb property listings and reviews, focusing on neighbourhood dynamics and host verification impacts using a comprehensive dataset of over 83,000 entries and 24 features. The analysis includes exploratory data analysis (EDA), data preprocessing, statistical insights, and visualizations with Python’s data science libraries. It aims to derive actionable insights for business strategy, neighbourhood comparison, and user preference modeling.
 
 Dataset Description
+
 Rows: 83,411 entries
 
 Columns: 24 features, including property type, price, reviews, location info
@@ -15,6 +17,7 @@ Major Neighbourhoods: Brooklyn, Manhattan, Queens, Bronx, Staten Island
 Room Types: Entire home/apt, Private room, Shared room, Hotel room
 
 Analysis Workflow
+
 Data Loading & Cleaning
 
 Handled missing values, formatted datatypes (floats, dates, integers), and reviewed memory usage
@@ -44,6 +47,7 @@ Found that verified hosts marginally receive higher average ratings (3.28 vs. 3.
 Explored review trends per neighbourhood and property type for business recommendations
 
 Key Results
+
 Most Listings: Brooklyn (34,636) and Manhattan (34,566) dominate the market
 
 Review Insights: Hotel rooms and private rooms generally score higher; verified hosts tend to receive better reviews
@@ -57,6 +61,7 @@ Neighbourhood Dynamics: Each area shows unique price and review distributions us
 <img width="842" height="585" alt="image" src="https://github.com/user-attachments/assets/7cce9750-a403-4edb-9d9b-facf88662bc1" />
 
 Libraries Used
+
 Python (Jupyter Notebook / Colab)
 
 Pandas, NumPy for data analysis
